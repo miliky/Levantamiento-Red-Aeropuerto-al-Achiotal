@@ -1,0 +1,4 @@
+git add .
+git commit -m "Falta Astoria y san franciasco"
+git push
+git status
