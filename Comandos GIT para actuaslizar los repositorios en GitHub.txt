@@ -1,4 +1,4 @@
 git add .
-git commit -m "Falta Astoria y san franciasco"
+git commit -m "Corregido las observaciones en archivo nuevo"
 git push
 git status
